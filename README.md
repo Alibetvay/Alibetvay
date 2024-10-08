@@ -10,3 +10,5 @@
 Alibetvay/Alibetvay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+gh repo clone ton-blockchain/wallet-contract-v5https://github.com/ton-blockchain/wallet-contract-v5.git17283495602311
